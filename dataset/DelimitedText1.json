@@ -10,7 +10,6 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "Used_Bikes.csv",
 				"folderPath": "Data",
 				"container": "sudheercontainer"
 			},
