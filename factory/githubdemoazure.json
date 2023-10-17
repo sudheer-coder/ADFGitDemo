@@ -1,0 +1,9 @@
+{
+	"name": "githubdemoazure",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c2b02a04-2fd5-49fc-8d53-413e0e525ebb",
+		"tenantId": "d8999fe4-76af-40b3-b435-1d8977abc08c"
+	}
+}
